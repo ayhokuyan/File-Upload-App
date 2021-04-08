@@ -74,3 +74,8 @@ typings/
 
 # FuseBox cache
 .fusebox/
+
+# DS Store
+.DS_Store
+*.png
+*.jpeg
